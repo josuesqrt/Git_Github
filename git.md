@@ -1,4 +1,4 @@
-<center><h1><span style="color:white">Gists en Git y Github</span></h1></center>
+<center><h1><span style="color:orange">Gists en Git y Github</span></h1></center>
 <p><Los gists  proporcionan una manera sencilla de compartir fragmentos de código con otros usuarios. Todo gist es un repositorio Git, lo que significa que se puede bifurcar y clonar. Si has iniciado sesión en GitHub, cuando crees un gist, este se asociará con tu cuenta y lo verás en tu lista de gists cuando te dirijas a tu página principal del gist.
 
 Los gists pueden ser públicos o secretos. Los gists públicos aparecen en Discover, donde los usuarios pueden examinar los nuevos gists a medida que se crean. También se los puede buscar, para que puedas usarlos si deseas que otras personas encuentren tu trabajo y lo vean.
